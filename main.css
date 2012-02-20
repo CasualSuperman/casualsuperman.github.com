@@ -8,6 +8,10 @@ body {
 	transition-duration: 0.2s;
 }
 
+.main {
+	font-size: 120%;
+}
+
 a {
 	color: #2B3440;
 	text-decoration: none;
@@ -22,5 +26,11 @@ ul {
 }
 
 nav {
-	font-size: 150%;
+	font-size: 120%;
+}
+
+.sidebar.main {
+	display: inline-block;
+	float: left;
+	height: 100%;
 }
