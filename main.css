@@ -10,6 +10,7 @@ body {
 
 a {
 	color: #2B3440;
+	text-decoration: none;
 }
 
 a:hover {
@@ -18,4 +19,8 @@ a:hover {
 
 ul {
 	list-style-type: none;
+}
+
+nav {
+	font-size: 150%;
 }
