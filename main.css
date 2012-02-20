@@ -7,3 +7,15 @@ body {
 	transition-property:background-color, color, height, margin, opacity, padding, width;
 	transition-duration: 0.2s;
 }
+
+a {
+	color: #2B3440;
+}
+
+a:hover {
+	color: #3B4450;
+}
+
+ul {
+	list-style-type: none;
+}
