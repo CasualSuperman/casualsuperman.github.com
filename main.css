@@ -3,3 +3,7 @@ body {
 	color: #373738;
 	font-family: 'Rosario', Calibri, sans-serif;
 }
+* {
+	transition-property:background-color, color, height, margin, opacity, padding, width;
+	transition-duration: 0.2s;
+}
