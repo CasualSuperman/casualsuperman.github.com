@@ -21,6 +21,10 @@ a:hover {
 	color: #3B4450;
 }
 
+h1 {
+	margin-top: 0;
+}
+
 ul {
 	list-style-type: none;
 }
@@ -33,4 +37,5 @@ nav {
 	display: inline-block;
 	float: left;
 	height: 100%;
+	margin-right: 1em;
 }
