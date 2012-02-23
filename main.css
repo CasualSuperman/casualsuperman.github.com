@@ -21,6 +21,10 @@ a {
 	text-decoration: none;
 }
 
+a:not([href]) {
+	text-decoration: line-through;
+}
+
 a:hover {
 	color: #66768B;
 }
