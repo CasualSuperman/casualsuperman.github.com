@@ -12,14 +12,10 @@ body {
 	font-size: 120%;
 }
 
-.sidebar.main li {
-	display: block;
-	float: none;
-}
-
 .sidebar.main a {
 	color: #2B3440;
-	float: left;
+	display: block;
+	float: none;
 }
 
 a {
