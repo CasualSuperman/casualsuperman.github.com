@@ -1,7 +1,10 @@
 body {
-	background-color: #efefef;
+	background-color: #bebebe;
 	color: #373738;
 	font-family: 'Rosario', Calibri, sans-serif;
+	margin: 0;
+	padding: 0;
+
 }
 * {
 	transition-property:background-color, color, height, margin, opacity, padding, width;
@@ -51,6 +54,7 @@ nav {
 }
 
 .content {
+	background-color: #efefef;
 	margin-left: 180px;
 }
 
