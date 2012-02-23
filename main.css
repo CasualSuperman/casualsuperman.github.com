@@ -12,6 +12,11 @@ body {
 	font-size: 120%;
 }
 
+.sidebar.main li {
+	display: block;
+	float: none;
+}
+
 .sidebar.main a {
 	color: #2B3440;
 	float: left;
@@ -50,7 +55,7 @@ nav {
 }
 
 .content {
-	margin-left: 120px;
+	margin-left: 180px;
 }
 
 .content li p {
