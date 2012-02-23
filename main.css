@@ -46,3 +46,7 @@ nav {
 .content li p {
 	margin-top: 0;
 }
+
+h2 {
+	margin-bottom: 0;
+}
