@@ -12,8 +12,12 @@ body {
 	font-size: 120%;
 }
 
-a {
+.sidebar.main a {
 	color: #2B3440;
+}
+
+a {
+	color: #46568B;
 	text-decoration: none;
 }
 
