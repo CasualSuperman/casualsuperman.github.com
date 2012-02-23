@@ -4,8 +4,12 @@ body {
 	font-family: 'Rosario', Calibri, sans-serif;
 	margin: 0;
 	padding: 0;
-
 }
+
+html, body, .content {
+	height: 100%;
+}
+
 * {
 	transition-property:background-color, color, height, margin, opacity, padding, width;
 	transition-duration: 0.2s;
@@ -55,7 +59,8 @@ nav {
 
 .content {
 	background-color: #efefef;
-	margin-left: 180px;
+	margin-left: 170px;
+	padding-left: 1em;
 }
 
 .content li p {
