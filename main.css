@@ -15,7 +15,6 @@ body {
 .sidebar.main a {
 	color: #2B3440;
 	float: left;
-	width: 120px;
 }
 
 a {
@@ -47,7 +46,7 @@ nav {
 	display: inline-block;
 	float: left;
 	height: 100%;
-	margin-right: 1em;
+	width: 120px;
 }
 
 .content {
